@@ -186,3 +186,14 @@ data/
 
 # Ignore README.md file
 README.md
+
+dags/BuildSummary.py
+dags/SeesionToSnowflake.py
+dags/apple.py
+dags/assignment5.py
+dags/country_capital_to_snowflake.py
+dags/country_capital_to_snowflake_v2.py
+dags/hello_world.py
+dags/lab1_etl.py
+dags/lab1_forecast.py
+dags/lab1_trainpredict.py
